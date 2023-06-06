@@ -3,9 +3,10 @@ Hi 👋 I am Digital Alex
 ---
 
 🧠  I'm interested in:
-- :zap: data transfer protocols;
-- 🛴 digital signal processing;
-- 🥑 information encoding/decoding.
+- ⚡ data transfer protocols;
+- 📻 digital signal processing;
+- 🕶️ encoding/decoding.
+
 
 ---
 
