@@ -37,6 +37,14 @@ Socials
   <a href="https://www.github.com/digitalFlag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
   
 ---
+
+💻 Completed courses:
+
+| Сourse                                                          | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| https://www.youtube.com/@JavaRushVideo CS50                     | 02/2021 - 04/2021 |
+
+
   
   ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gelpostbox@gmail.com)
   
