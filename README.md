@@ -39,12 +39,12 @@ Socials
 ---
 
 💻 Completed courses:
+| Сourse                                                                                              | Date              |
+| ----------------------------------------------------------------------------------------------------| :---------------: |
+| https://www.youtube.com/@JavaRushVideo CS50                                                         |       2021        |
+| https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb Version Control with Git |       2021        |
 
-| Сourse                                                          | Date              |
-| ----------------------------------------------------------------| :---------------: |
-| https://www.youtube.com/@JavaRushVideo CS50                     | 02/2021 - 04/2021 |
-
-
+---
   
   ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gelpostbox@gmail.com)
   
