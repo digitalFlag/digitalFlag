@@ -37,14 +37,6 @@ Socials
   <a href="https://www.github.com/digitalFlag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
   
 ---
-
-💻 Completed courses:
-| Сourse                                                                                              | Date              |
-| ----------------------------------------------------------------------------------------------------| :---------------: |
-| https://www.youtube.com/@JavaRushVideo CS50                                                         |       2021        |
-| https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb Version Control with Git |       2021        |
-
----
   
   ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gelpostbox@gmail.com)
   
@@ -55,3 +47,14 @@ Socials
 <a href="http://www.github.com/digitalFlag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalFlag&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=digitalFlag)
+
+---
+
+💻 Completed courses:
+| Сourse                                                                                              | Date              |
+| ----------------------------------------------------------------------------------------------------| :---------------: |
+| https://www.youtube.com/@JavaRushVideo CS50                                                         |       2021        |
+| https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb Version Control with Git |       2021        |
+| https://learn.epam.com/detailsPage?id=1ad7fd02-311b-4b96-845d-599b177ad928 Clean Code               |       2021        |
+
+---
