@@ -57,6 +57,6 @@ Socials
 | https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb Version Control with Git |       2021        |
 | https://learn.epam.com/detailsPage?id=1ad7fd02-311b-4b96-845d-599b177ad928 Clean Code               |       2021        |
 | https://learn.epam.com/detailsPage?id=3e12546f-89ff-4f08-ab65-671c202b6e9a Diplomatic English       |       2022        |
-
+| https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 Computer Science Basics  |       2022        |
 
 ---
