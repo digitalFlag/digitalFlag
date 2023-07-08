@@ -59,5 +59,6 @@ Socials
 | https://learn.epam.com/detailsPage?id=3e12546f-89ff-4f08-ab65-671c202b6e9a Diplomatic English          |       2022        |
 | https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 Computer Science Basics     |       2022        |
 | https://learn.epam.com/detailsPage?id=d8721593-d814-41ed-86b3-3e3a0bc0cfd5 Relational Databases Basics |       2023        |
+| https://training.by/Training/Details/2665?lang=en.NET Development Basic Level                          |       2023        |
 
 ---
