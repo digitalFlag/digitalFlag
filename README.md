@@ -51,16 +51,16 @@ Socials
 ---
 
 💻 Completed courses:
-| Сourse                                                                                                            | Date              | Course                                                                                        | Date     |
-| -----------------------------------------------------------------------------------------------------------------| ------------| ----------------------------------------------------------------------------------------------------|----------|
-| [CS50](https://www.youtube.com/@JavaRushVideo   )                                                                |    2021     | [Pathway to Tech Future](https://learn.epam.com/detailsPage?id=9fe0fbbf-1461-48e7-b794-70da17c4af01)| 08.2023  |
-| [Version Control with Git ](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)           |    2021     |
-| [Clean Code](https://learn.epam.com/detailsPage?id=1ad7fd02-311b-4b96-845d-599b177ad928 )                         |    2021     |
-| [Diplomatic English ](https://learn.epam.com/detailsPage?id=3e12546f-89ff-4f08-ab65-671c202b6e9a)                 |    2022     |
-| [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)             |    2022     |
-| [Relational Databases Basics](https://learn.epam.com/detailsPage?id=d8721593-d814-41ed-86b3-3e3a0bc0cfd5)         |    2023     |
-| [.NET Development Basic Level (Two Parts)](https://training.by/Training/Details/2665?lang=en)                     |    2023     |
-| [Software Development Methodologies](https://learn.epam.com/detailsPage?id=094df392-3fa4-4332-8691-af73a6582abf)  |    2023     |
-| [C# 101](https://learn.microsoft.com/en-us/shows/csharp-101/)                                                     |    08.2023  |
+| Сourse                                                                                                           | Date    | Course                                                                                        | Date     |
+| -----------------------------------------------------------------------------------------------------------------| --------| ----------------------------------------------------------------------------------------------------|----------|
+| [CS50](https://www.youtube.com/@JavaRushVideo   )                                                                |  2021   | [Pathway to Tech Future](https://learn.epam.com/detailsPage?id=9fe0fbbf-1461-48e7-b794-70da17c4af01)| 08.2023  |
+| [Version Control with Git ](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)          |  2021   | [Intro to Visual Studio](https://www.youtube.com/watch?v=5AOp8zFu4Vg&list=PLdo4fOcmZ0oWxvt87h9r3uq3uU6pUlCq8) | 09.2023  |
+| [Clean Code](https://learn.epam.com/detailsPage?id=1ad7fd02-311b-4b96-845d-599b177ad928 )                        |  2021   |
+| [Diplomatic English ](https://learn.epam.com/detailsPage?id=3e12546f-89ff-4f08-ab65-671c202b6e9a)                |  2022   |
+| [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)            |  2022   |
+| [Relational Databases Basics](https://learn.epam.com/detailsPage?id=d8721593-d814-41ed-86b3-3e3a0bc0cfd5)        |  2023   |
+| [.NET Development Basic Level (Two Parts)](https://training.by/Training/Details/2665?lang=en)                    |  2023   |
+| [Software Development Methodologies](https://learn.epam.com/detailsPage?id=094df392-3fa4-4332-8691-af73a6582abf) |  2023   |
+| [C# 101](https://learn.microsoft.com/en-us/shows/csharp-101/)                                                    | 08.2023 |
 
 ---
