@@ -1,4 +1,4 @@
-Hi 👋 I am Digital Alex
+Hi 👋 I am Digit Al
 
 ---
 
