@@ -51,7 +51,7 @@ Socials
 ---
 
 💻 Completed courses:
-| Сourse                                                                                                           | Date    | Course                                                                                        | Date     |
+| Сourse                                                                                                           | Date    | learning materials                                                                                  | Date     |
 | -----------------------------------------------------------------------------------------------------------------| --------| ----------------------------------------------------------------------------------------------------|----------|
 | [CS50](https://www.youtube.com/@JavaRushVideo   )                                                                |  2021   | [Pathway to Tech Future](https://learn.epam.com/detailsPage?id=9fe0fbbf-1461-48e7-b794-70da17c4af01)| 08.2023  |
 | [Version Control with Git ](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)          |  2021   | [Intro to Visual Studio](https://www.youtube.com/watch?v=5AOp8zFu4Vg&list=PLdo4fOcmZ0oWxvt87h9r3uq3uU6pUlCq8) | 09.2023  |
