@@ -60,7 +60,7 @@ Socials
 | [Diplomatic English ](https://learn.epam.com/detailsPage?id=3e12546f-89ff-4f08-ab65-671c202b6e9a)                |  2022   | [C# For Beginners](https://www.youtube.com/watch?v=9THmGiSPjBQ&list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe)   |  19/19   |
 | [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)            |  2022   | [C# Lessons - The Best Programming Lessons](https://www.youtube.com/watch?v=lK7-RelET6g&list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb)|  84/84  |                                                      
 | [Relational Databases Basics](https://learn.epam.com/detailsPage?id=d8721593-d814-41ed-86b3-3e3a0bc0cfd5)        |  2023   | [Яндекс Практикум: Основы работы с базами данных и SQL](https://practicum.yandex.com/sql-database-basics/?from=catalog)| 10.2024  |
-| [.NET Development Basic Level (Two Parts)](https://training.by/Training/Details/2665?lang=en)                    |  2023   | [HTML5 для начинающих](https://youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)     |  4/20  |
+| [.NET Development Basic Level (Two Parts)](https://training.by/Training/Details/2665?lang=en)                    |  2023   | [HTML5 для начинающих](https://youtube.com/watch?v=_R5a-Kc0pRc&list=PLDyJYA6aTY1nlkG0gBj96XDmDSC4Fy1TO)     |  5/20  |
 | [Software Development Methodologies](https://learn.epam.com/detailsPage?id=094df392-3fa4-4332-8691-af73a6582abf) |  2023   |
 | [C# 101](https://learn.microsoft.com/en-us/shows/csharp-101/)                                                    | 08.2023 |
 
